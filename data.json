@@ -1,0 +1,26 @@
+[
+    {
+        "name": "ゆう",
+        "goal": "富良野",
+        "month": "7",
+        "term": "2",
+        "aim": "2",
+        "easy": "3",
+        "shortly": "2",
+        "meal": "4",
+        "mood": "4",
+        "file_photo": "upload\/20210729_travel_021.jpg"
+    },
+    {
+        "name": "ゆう",
+        "goal": "伊豆",
+        "month": "2",
+        "term": "2",
+        "aim": "1",
+        "easy": "3",
+        "shortly": "2",
+        "meal": "5",
+        "mood": "5",
+        "file_photo": "upload\/20230223_travel_001.JPG"
+    }
+]
